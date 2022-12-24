@@ -38,7 +38,7 @@ c++17 low cost serialize deserialize adaptor library like rust serde.rs
 - [x] pointer support (T*, std::shared_ptr<T>, std::unique_ptr<T>)
 - [x] [reflection](#Reflection) support 
 
-## Serdepp Strcuture
+## Serdepp Structure
 ![Serdepp structure](Serdepp_Structure.png)
 
 ## Get Started
